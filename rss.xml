@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[pearsonuxcommittee]]></title>
         <description><![CDATA[pearsonuxcommittee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pearsonuxcommittee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 00:48:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 19:36:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pearsonuxcommittee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ead0679-732c-450c-b2a0-472aac2302cb.png">]]></description>
-            <link>undefinedwelcome-to-the-pearson-campus-ambassador-student-site/index.html</link>
+            <link>https://thegrid.ai/pearsonuxcommittee/welcome-to-the-pearson-campus-ambassador-student-site/index.html</link>
             <guid isPermaLink="false">43ebe596-b3f2-4dc8-ac82-3822ec546eb8</guid>
-            <pubDate>Fri, 25 Mar 2016 00:47:32 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 19:36:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
