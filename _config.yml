@@ -1,6 +1,6 @@
 name: pearsonuxcommittee
 favicon: null
-layout_spectrum: 0.7737345034256577
+layout_spectrum: 0.51253
 typography_spectrum: 0.3778906299266964
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#d4ebe5'
+    - '#0080a7'
+    - '#3b3630'
+    - '#7b817b'
+    - '#9ba8a2'
   brandStrength: 0
   lightness: 0
-  saturation: 0.5
+  saturation: 0.9375
   rhythmicContrast: 0.027421574341133237
 purpose: []
