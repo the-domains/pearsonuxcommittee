@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-13T00:33:04.911Z'
-dateModified: '2016-04-13T00:28:55.696Z'
-title: 'Committees '
+datePublished: '2016-04-13T00:54:54.855Z'
+dateModified: '2016-04-13T00:54:54.443Z'
+title: Making Things Happen
 author: []
 sourcePath: _posts/2016-04-13-committees.md
 published: true
