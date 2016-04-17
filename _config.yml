@@ -1,7 +1,7 @@
 name: pearsonuxcommittee
 favicon: null
-layout_spectrum: 0.00581
-typography_spectrum: 0.74998
+layout_spectrum: 0.06589
+typography_spectrum: 0.10851
 title: Pearson Campus Ambassador
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
