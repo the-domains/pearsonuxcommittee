@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: Making things happen. This is where tasks are broken down at the committee level and each person has a specific function.
-datePublished: '2016-04-17T22:11:33.795Z'
-dateModified: '2016-04-17T22:05:39.311Z'
-title: "Committees\_"
+datePublished: '2016-04-17T22:23:12.091Z'
+dateModified: '2016-04-17T22:23:04.559Z'
+title: Committees
 author: []
 sourcePath: _posts/2016-04-13-committees.md
 published: true
@@ -22,9 +22,8 @@ publisher:
 _type: Blurb
 
 ---
+# Committees
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd128752-ab4d-4ba1-a0c7-416b7fd32a7f.png)
-
-# Committees 
 
 Making things happen. This is where tasks are broken down at the committee level and each person has a specific function.
 
