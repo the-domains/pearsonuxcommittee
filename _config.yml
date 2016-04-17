@@ -6,12 +6,12 @@ color:
     - '#3b3630'
     - '#7b817b'
     - '#9ba8a2'
-  brandStrength: 0.6331901
+  brandStrength: 0.336622
   lightness: 0
   rhythmicContrast: 0.25
-  saturation: 1
+  saturation: 0.462719
 cta: {}
-layout_spectrum: 0.221491
+layout_spectrum: 0
 name: pearsonuxcommittee
 opengraph: {}
 purpose: []
