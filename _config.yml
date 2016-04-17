@@ -1,4 +1,19 @@
-analytics: {}
+name: pearsonuxcommittee
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.3778906299266964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#d4ebe5'
@@ -6,13 +21,8 @@ color:
     - '#3b3630'
     - '#7b817b'
     - '#9ba8a2'
-  brandStrength: 0.336622
-  lightness: 0
-  rhythmicContrast: 0.25
-  saturation: 0.462719
-cta: {}
-layout_spectrum: 0
-name: pearsonuxcommittee
-opengraph: {}
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.3778906299266964
