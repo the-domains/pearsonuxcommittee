@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Making things happen. This is where tasks are broken down at the committee level and each person has a specific function.
-datePublished: '2016-04-17T22:23:12.091Z'
-dateModified: '2016-04-17T22:23:04.559Z'
+datePublished: '2016-04-17T22:26:51.950Z'
+dateModified: '2016-04-17T22:26:24.499Z'
 title: Committees
 author: []
 sourcePath: _posts/2016-04-13-committees.md
