@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T14:25:12.146Z'
-dateModified: '2016-04-18T14:24:29.377Z'
+datePublished: '2016-04-18T14:36:53.752Z'
+dateModified: '2016-04-18T14:25:15.312Z'
+title: 'Announcements '
+author: []
+sourcePath: _posts/2016-04-18-announcements.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: 'Announcements '
-author: []
-sourcePath: _posts/2016-04-18-announcements.md
-published: true
 url: announcements/index.html
 _type: Article
 
