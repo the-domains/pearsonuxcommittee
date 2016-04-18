@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-18T14:36:53.752Z'
-dateModified: '2016-04-18T14:25:15.312Z'
+datePublished: '2016-04-18T20:47:06.392Z'
+dateModified: '2016-04-18T20:46:56.367Z'
 title: 'Announcements '
 author: []
 sourcePath: _posts/2016-04-18-announcements.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: announcements/index.html
 _type: Article
 
