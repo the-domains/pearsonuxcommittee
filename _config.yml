@@ -1,20 +1,20 @@
-typography_spectrum: 0.07550245127640665
+typography_spectrum: 0.38371
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.36123786959797144
-  lightness: 0.11616897396743298
-  saturation: 0.5572476980742067
-  rhythmicContrast: 0.9919436378404498
+    - '#d4ebe5'
+    - '#0080a7'
+    - '#3b3630'
+    - '#7b817b'
+    - '#9ba8a2'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.8447269217576832
+layout_spectrum: 0
 analytics:
   google: null
   facebook: null
@@ -24,13 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Docs!
-    id: 6c99d928-bee9-46df-9d61-bcc1165cbbd3
-    type: content
-  - name: IMP Link
-    id: 3b68d96f-94f4-463d-a6ba-70d63e72eb80
-    type: content
+navigation: []
 favicon: null
 collections:
   - index:
