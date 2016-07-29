@@ -4,7 +4,7 @@
         <description><![CDATA[Pearson Campus Ambassador]]></description>
         <link>https://thegrid.ai/pearsonuxcommittee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 21:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 21:31:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pearsonuxcommittee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Committees]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/pearsonuxcommittee/documents/index.html</link>
             <guid isPermaLink="false">6c99d928-bee9-46df-9d61-bcc1165cbbd3</guid>
             <pubDate>Fri, 29 Jul 2016 16:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Events]]></title>
-            <description><![CDATA[<article><h1>Events</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ff5914f-b958-421d-9e4a-8dff24544b71.png"></article>]]></description>
-            <link>https://thegrid.ai/pearsonuxcommittee/events/index.html</link>
-            <guid isPermaLink="false">0c4ae9c5-9ff3-4370-bd1c-8774e83d4913</guid>
-            <pubDate>Fri, 29 Apr 2016 16:12:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
