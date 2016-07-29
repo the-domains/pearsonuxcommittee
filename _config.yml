@@ -28,9 +28,6 @@ navigation:
   - name: Docs!
     id: 6c99d928-bee9-46df-9d61-bcc1165cbbd3
     type: content
-  - name: Ux Twitter Page
-    url: www.twitter.com/PCA_UX_committe
-    type: external
 favicon: null
 collections:
   - index:
