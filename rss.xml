@@ -4,7 +4,7 @@
         <description><![CDATA[Pearson Campus Ambassador]]></description>
         <link>https://thegrid.ai/pearsonuxcommittee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 21:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 21:35:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pearsonuxcommittee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Committees]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pearsonuxcommittee/committees/index.html</link>
             <guid isPermaLink="false">ff4fe35a-0455-4895-b226-a7a01abd9388</guid>
             <pubDate>Tue, 26 Jul 2016 19:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Documents]]></title>
+            <description><![CDATA[<article><h1>Documents</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8ab654985a0be146524e16629fabd45/croprotate.jpg?cropheight=3214&cropwidth=4472&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4560a2ac-b22c-49e5-bef6-a56561f0991a.jpg&x=0&y=69"></article>]]></description>
+            <link>https://thegrid.ai/pearsonuxcommittee/documents/index.html</link>
+            <guid isPermaLink="false">6c99d928-bee9-46df-9d61-bcc1165cbbd3</guid>
+            <pubDate>Fri, 29 Jul 2016 21:35:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NEWS]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/pearsonuxcommittee/imp-link/index.html</link>
             <guid isPermaLink="false">3b68d96f-94f4-463d-a6ba-70d63e72eb80</guid>
             <pubDate>Fri, 29 Jul 2016 21:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4560a2ac-b22c-49e5-bef6-a56561f0991a.jpg">]]></description>
-            <link>https://thegrid.ai/pearsonuxcommittee/documents/index.html</link>
-            <guid isPermaLink="false">6c99d928-bee9-46df-9d61-bcc1165cbbd3</guid>
-            <pubDate>Fri, 29 Jul 2016 16:02:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
