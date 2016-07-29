@@ -4,7 +4,7 @@
         <description><![CDATA[Pearson Campus Ambassador]]></description>
         <link>https://thegrid.ai/pearsonuxcommittee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 21:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 21:54:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pearsonuxcommittee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Committees]]></title>
@@ -12,27 +12,6 @@
             <link>https://thegrid.ai/pearsonuxcommittee/committees/index.html</link>
             <guid isPermaLink="false">ff4fe35a-0455-4895-b226-a7a01abd9388</guid>
             <pubDate>Fri, 29 Jul 2016 21:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMP Link]]></title>
-            <description><![CDATA[<article><h1>IMP Link</h1><p>Important Links</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c329f36c-9971-482c-878a-963676fe4969.gif"></article>]]></description>
-            <link>https://thegrid.ai/pearsonuxcommittee/imp-link/index.html</link>
-            <guid isPermaLink="false">3b68d96f-94f4-463d-a6ba-70d63e72eb80</guid>
-            <pubDate>Fri, 29 Jul 2016 21:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Documents]]></title>
-            <description><![CDATA[<article><h1>Documents</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c50cc3804b86027edbe48856f69bb548a6f1a1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pearsonuxcommittee/documents/index.html</link>
-            <guid isPermaLink="false">6c99d928-bee9-46df-9d61-bcc1165cbbd3</guid>
-            <pubDate>Fri, 29 Jul 2016 21:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEWS]]></title>
-            <description><![CDATA[<article><h1>NEWS</h1><p>News</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a1a4df5-d49c-4a19-8a5a-5dc271360da3.gif"></article>]]></description>
-            <link>https://thegrid.ai/pearsonuxcommittee/news/index.html</link>
-            <guid isPermaLink="false">aad575aa-7ec2-40c2-92cd-1873424d20b2</guid>
-            <pubDate>Fri, 29 Jul 2016 21:31:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
