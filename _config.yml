@@ -28,6 +28,9 @@ navigation:
   - name: Docs!
     id: 6c99d928-bee9-46df-9d61-bcc1165cbbd3
     type: content
+  - name: IMP Link
+    id: 3b68d96f-94f4-463d-a6ba-70d63e72eb80
+    type: content
 favicon: null
 collections:
   - index:
