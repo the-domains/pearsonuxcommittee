@@ -1,8 +1,34 @@
-name: pearsonuxcommittee
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.38371
-title: Pearson Campus Ambassador
+color:
+  brandColors:
+    - '#d4ebe5'
+    - '#0080a7'
+    - '#3b3630'
+    - '#7b817b'
+    - '#9ba8a2'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: pearsonuxcommittee
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Docs!
+    id: 6c99d928-bee9-46df-9d61-bcc1165cbbd3
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#d4ebe5'
-    - '#0080a7'
-    - '#3b3630'
-    - '#7b817b'
-    - '#9ba8a2'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+title: Pearson Campus Ambassador
 purpose: []
