@@ -4,7 +4,7 @@
         <description><![CDATA[Pearson Campus Ambassador]]></description>
         <link>https://thegrid.ai/pearsonuxcommittee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 21:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 21:29:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pearsonuxcommittee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Committees]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pearsonuxcommittee/committees/index.html</link>
             <guid isPermaLink="false">ff4fe35a-0455-4895-b226-a7a01abd9388</guid>
             <pubDate>Tue, 26 Jul 2016 19:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEWS]]></title>
+            <description><![CDATA[<article><h1>NEWS</h1><p>News</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a1a4df5-d49c-4a19-8a5a-5dc271360da3.gif"></article>]]></description>
+            <link>https://thegrid.ai/pearsonuxcommittee/news/index.html</link>
+            <guid isPermaLink="false">aad575aa-7ec2-40c2-92cd-1873424d20b2</guid>
+            <pubDate>Fri, 29 Jul 2016 21:29:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IMP Link]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/pearsonuxcommittee/documents/index.html</link>
             <guid isPermaLink="false">6c99d928-bee9-46df-9d61-bcc1165cbbd3</guid>
             <pubDate>Fri, 29 Jul 2016 16:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a1a4df5-d49c-4a19-8a5a-5dc271360da3.gif">]]></description>
-            <link>https://thegrid.ai/pearsonuxcommittee/news/index.html</link>
-            <guid isPermaLink="false">aad575aa-7ec2-40c2-92cd-1873424d20b2</guid>
-            <pubDate>Tue, 26 Jul 2016 21:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Events]]></title>
